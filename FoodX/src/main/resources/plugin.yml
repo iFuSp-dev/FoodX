@@ -1,0 +1,12 @@
+main: org.aifusp.Main
+version: 0.1.2
+name: FoodX
+author: aifusp
+api-version: 1.13
+depend: [NBTAPI]
+
+commands:
+  FoodX:
+    description: Comando principal del plugin
+    aliases:
+      - fdx
